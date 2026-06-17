@@ -94,13 +94,13 @@ Full source register with URLs, tier ratings and adjustment notes:
 ```
 ## Repository Structure
 wa-agribusiness-working-capital-analysis/
-├── README.md
+├── /data
+│   └── data_sources_and_assumptions.md 
 ├── /model
-│   └── WAS_WorkingCapital.xlsx
+│   └── WAS-WC-Analysis.xlsx
 ├── /memo
-│   └── WAS_CFO_Memo.pdf
-└── /data
-    └── data_sources_and_assumptions.md
+│    └── WAS_CFO_Memo.pdf
+└── README.md
 ```
 
 ---
